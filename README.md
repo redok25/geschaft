@@ -49,7 +49,7 @@ Pastikan komputer Anda telah terinstal dengan:
     Jalankan migrasi untuk membuat tabel-tabel yang diperlukan di database:
 
     ```bash
-    php artisan migrate
+    php artisan migrate:fresh --seed
     ```
 
 9. **Jalankan Server**
