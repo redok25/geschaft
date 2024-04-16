@@ -62,5 +62,5 @@ Pastikan komputer Anda telah terinstal dengan:
 ### Kredensial Login
 
 Gunakan kredensial berikut untuk masuk ke aplikasi Geschaft:
-Email: admin@dev.test
-Password: pwd
+- Email: admin@dev.test
+- Password: pwd
