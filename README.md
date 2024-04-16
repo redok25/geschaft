@@ -2,10 +2,6 @@
 
 Geschaft adalah sebuah aplikasi sederhana untuk pemesanan barang, yang dibangun menggunakan framework Laravel 10. Aplikasi ini dirancang untuk memudahkan pengguna dalam melakukan transaksi pembelian barang dengan sistem yang efisien dan terorganisir.
 
-## Instalasi
-
-Berikut adalah langkah-langkah untuk menginstal aplikasi Geschaft:
-
 ### Persyaratan
 
 Pastikan komputer Anda telah terinstal dengan:
@@ -14,11 +10,21 @@ Pastikan komputer Anda telah terinstal dengan:
 -   Composer
 -   MySQL atau database lain yang kompatibel
 
-### Langkah-langkah
+Kredensial Login
+Gunakan kredensial berikut untuk masuk ke aplikasi Geschaft:
+
+Email: admin@dev.test
+Password: pwd
+
+### Instalasi
 
 1. **Clone Repositori**
 
+    Clone repositori Geschaft dari GitHub
+
 2. **Masuk ke Direktori Proyek**
+
+    Masuk ke direktori proyek Geschaft
 
 3. **Instal Dependensi dengan Composer**
 
@@ -63,3 +69,10 @@ Pastikan komputer Anda telah terinstal dengan:
 10. **Akses Aplikasi**
 
     Buka browser dan akses aplikasi Geschaft melalui URL berikut: [http://localhost:8000](http://localhost:8000)
+
+### Kredensial Login
+
+Gunakan kredensial berikut untuk masuk ke aplikasi Geschaft:
+
+Email: admin@dev.test
+Password: pwd
